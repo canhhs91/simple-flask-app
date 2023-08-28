@@ -63,7 +63,7 @@ The project is structured as follows:
 -   app.py: Entry point for this Flask application.
 -   db.py: Database setup and configuration.
 -   config.py: Configuration settings for the application.
--   modules/: This directory contains individual modules of your application.
+-   modules/: This directory contains individual modules of the application.
     -   module_name/: Each subdirectory is a module.
         -   tests/: Test files and suites for this module.
         -   controllers.py: Module-specific controller logic.
