@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 This is a web application built using Flask.
 
 ## Getting Started
@@ -12,25 +17,35 @@ To run the application locally and perform testing, follow the steps below.
 ### Installation
 
 1. Clone this repository to your local machine:
-   `git clone https://github.com/canhhs91/simple-flask-app.git`
+   ```sh
+   git clone https://github.com/canhhs91/simple-flask-app.git
+   ```
 
 2. Navigate to the project directory:
 
-`cd simple-flask-app`
+```sh
+cd simple-flask-app
+```
 
 3. Setup the virtual environment
-   `python -m venv venv`
-   `source venv/bin/activate`
+   ```sh 
+   python -m venv venv
+   source venv/bin/activate
+   ```
 
 4. Install the required packages using pip:
 
-`pip install -r requirements.txt`
+```sh
+pip install -r requirements.txt
+```
 
 ### Running the Application
 
 1. Start the Flask development server by running the following command in the project directory:
 
-`flask run`
+```sh 
+flask run
+```
 
 The application will be accessible at http://127.0.0.1:5000/.
 
@@ -38,7 +53,9 @@ The application will be accessible at http://127.0.0.1:5000/.
 
 1. Running test using pytest
 
-`python -m pytest`
+```sh
+python -m pytest
+```
 
 ### Project Structure
 
