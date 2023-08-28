@@ -1,7 +1,6 @@
 
-# Project Title
+# Simple Flask App
 
-A brief description of what this project does and who it's for
 
 This is a web application built using Flask.
 
@@ -27,7 +26,7 @@ To run the application locally and perform testing, follow the steps below.
 cd simple-flask-app
 ```
 
-3. Setup the virtual environment
+3. Setup the virtual environment:
    ```sh 
    python -m venv venv
    source venv/bin/activate
@@ -51,7 +50,7 @@ The application will be accessible at http://127.0.0.1:5000/.
 
 ### Running test
 
-1. Running test using pytest
+1. Running test using pytest:
 
 ```sh
 python -m pytest
